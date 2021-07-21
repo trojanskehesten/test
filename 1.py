@@ -1,2 +1,2 @@
 import os
-print('master')
+print('rp1302')
